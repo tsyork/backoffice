@@ -26,8 +26,8 @@ SECRET_KEY = 'm4(v5vdyw)y_#i4&naz=v+5lic_z)l69(yee_bw33r+68d3-+g'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'backoffice-dev.us-west-2.elasticbeanstalk.com',
-    '127.0.0.1'
+    # 'backoffice-dev.us-west-2.elasticbeanstalk.com',
+    # '127.0.0.1'
 ]
 
 
