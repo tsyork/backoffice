@@ -98,9 +98,9 @@ DATABASES={
     'default':{
         'ENGINE':'django.db.backends.postgresql_psycopg2',
         'NAME':'backoffice',#nameofdatabaseonpostgresserver
-        'USER':'timyork',
-        'PASSWORD':'Magg13m0',
-        'HOST':'localhost',
+        'USER':'cbadmin',
+        'PASSWORD':'Fak40Jq8JTJ!0kd6',
+        'HOST':'crunchbase-data.cffs0buuu6jg.us-west-2.rds.amazonaws.com',
         'PORT':'5432',
     }
 }
